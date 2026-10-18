@@ -1,0 +1,9 @@
+/app/config.php
+/data/*.sqlite
+/data/*.sqlite-*
+/data/mail.log
+/uploads/*
+!/uploads/.htaccess
+!/uploads/.gitkeep
+.DS_Store
+/node_modules/
